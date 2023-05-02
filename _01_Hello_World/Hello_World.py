@@ -1,5 +1,6 @@
 # 在main中返回 Hello, World!
 
 def main():
-    return Hello, World!
+    string A="Hello, World!";
+    return A
     pass
